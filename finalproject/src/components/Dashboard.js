@@ -3,6 +3,7 @@ import { Fragment } from 'react'
 import { Outlet } from 'react-router-dom';
 import AdminDashboardComp from '../layout/AdminDashboardComp';
 import FooterComp from '../layout/FooterComp'
+import NavComp from '../layout/NavComp';
 
 const Dashboard = () => {
     return (
@@ -11,7 +12,8 @@ const Dashboard = () => {
         
         <div className='card border-primary'>
           <div className='card-header border-primary'> 
-          <h2>DashBoard is working!!!</h2>
+            <NavComp></NavComp>
+      
           </div>
           <div className='card-body border-primary'> 
          <AdminDashboardComp></AdminDashboardComp>
