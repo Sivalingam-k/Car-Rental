@@ -43,7 +43,7 @@
   ],
   "car": [
     {
-      "carid": 1,
+      "id": 1,
       "carname": "mahindra-XUV",
       "carimage": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Mahindra/XUV700/10789/1705388477954/front-left-side-47.jpg",
       "carrank": 8,
@@ -52,7 +52,7 @@
       "id": "ab1d"
     },
     {
-      "carid": 2,
+      "id": 2,
       "carname": "tata-vitarabreeza",
       "carimage": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Maruti/Brezza/10388/1694424068944/front-left-side-47.jpg",
       "carrank": 6,
@@ -61,7 +61,7 @@
       "id": "2022"
     },
     {
-      "carid": 3,
+      "id": 3,
       "carname": "suzuki-nexa",
       "carimage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiJFurWLKaX1db2227KoGRtdcj5D6JLPIiww&s",
       "carrank": 11,
@@ -70,7 +70,7 @@
       "id": "e201"
     },
     {
-      "carid": 4,
+      "id": 4,
       "carname": "mahindra-bolero",
       "carimage": "https://imgd.aeplcdn.com/1056x594/n/25t03sa_1483225.jpg?q=80",
       "carrank": 11,
